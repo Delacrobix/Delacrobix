@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hi, I'm Jeffrey! <img src="https://media.giphy.com/media/VOoHZQ5TfMGQmuAdtV/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/JCElwGNuZDy9L8POtZ/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="https://www.udea.edu.co">University of Antioqia</a> (Studying) <img src="https://media.giphy.com/media/Sh7FMlRTsgB8lO8WKJ/giphy.gif" width="30">
+</em></p>
 
-<!--
-**Delacrobix/Delacrobix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Jeffrey](https://img.shields.io/badge/-Jeffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffrey-s-rengifo-marin-b2573722a/)](https://www.linkedin.com/in/jeffrey-s-rengifo-marin-b2573722a/)
+[![GitHub: Delacrobix](https://img.shields.io/github/followers/Delacrobix?label=follow&style=social)](https://github.com/Delacrobix)
+[![WebSite: Jeffrm](https://img.shields.io/badge/-Personal%20website-yellowgreen)](https://jeffrm.ga)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/9PrFY6INWWTNORgp2P/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Jeff = {
+  code: [Javascript, HTML, Java],
+  tools: [Node, Express, Spring Boot, MongoDB, MySQL],
+  English: [B1],
+  Hobbies: {
+                        Music: "Play guitar, piano and sing",
+                        Economics: "Book reading",
+                        Others: "Video Games, photografy"
+            }
+}
