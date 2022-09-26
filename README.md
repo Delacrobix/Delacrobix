@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/9PrFY6INWWTNORgp2P/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-var Jeff = {
+const Jeff = {
   code: [Javascript, HTML, CSS, Java],
   tools: [Node, Express, Spring Boot, MongoDB, MySQL],
   English: [B1],
