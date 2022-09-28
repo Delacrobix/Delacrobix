@@ -16,8 +16,8 @@ const Jeff = {
   tools: [Node, Express, Spring Boot, MongoDB, MySQL],
   English: [B1],
   Hobbies: {
-                        Music: "Play guitar, piano and sing",
-                        Economics: "Book reading",
-                        Others: "Video Games, photografy"
+              Music: "Play guitar, piano and sing",
+              Economics: "Book reading",
+              Others: "Video Games, photografy"
             }
 }
