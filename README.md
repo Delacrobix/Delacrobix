@@ -3,9 +3,9 @@
 <p><em>Software Enginner at <a href="https://www.udea.edu.co">University of Antioqia</a> (Studying) <img src="https://media.giphy.com/media/Sh7FMlRTsgB8lO8WKJ/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: Jeffrey](https://img.shields.io/badge/-Jeffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffrey-s-rengifo-marin-b2573722a/)](https://www.linkedin.com/in/jeffrey-s-rengifo-marin-b2573722a/)
+[![Linkedin: Jeffrey](https://img.shields.io/badge/-Jeffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jeffrey-s-rengifo-marin-b2573722a/](https://www.linkedin.com/in/jeffrey-rerin/))](https://www.linkedin.com/in/jeffrey-rerin/)
 [![GitHub: Delacrobix](https://img.shields.io/github/followers/Delacrobix?label=follow&style=social)](https://github.com/Delacrobix)
-[![WebSite: Jeffrm](https://img.shields.io/badge/-Personal%20website-yellowgreen)](https://jeffrm.ga)
+[![WebSite: Jeffrm](https://img.shields.io/badge/-Personal%20website-yellowgreen)](https://www.jeffrm.com.co)
 
 
 ### <img src="https://media.giphy.com/media/9PrFY6INWWTNORgp2P/giphy.gif" width="50"> A little more about me...  
