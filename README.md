@@ -12,8 +12,8 @@
 
 ```javascript
 const Jeff = {
-  code: ['Javascript', 'HTML', 'Java', 'CSS', 'C#'],
-  tools: ['Node', 'React', 'SpringBoot', '.Net Framework', 'MongoDB', 'MySQL'],
+  code: ['Javascript', 'HTML', 'SQL', 'CSS', 'C#'],
+  tools: ['Node', 'React', 'SQL Server', 'ASP.Net Core', 'MongoDB', 'MySQL', 'Redis'],
   English: B1,
   Hobbies: {
               Music: "Play guitar, piano and sing",
