@@ -14,7 +14,7 @@
 const Jeff = {
   code: ['Javascript', 'HTML', 'SQL', 'CSS', 'C#'],
   tools: ['Node', 'React', 'SQL Server', 'ASP.Net Core', 'MongoDB', 'MySQL', 'Redis'],
-  English: B1,
+  English: B2,
   Hobbies: {
               Music: "Play guitar, piano and sing",
               Economics: "Book reading",
