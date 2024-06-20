@@ -13,8 +13,8 @@
 ```javascript
 const Jeff = {
   code: ['Javascript', 'HTML', 'SQL', 'CSS', 'C#', 'Typescript'],
-  tools: ['Node', 'React', 'SQL Server', 'ASP.Net Core', 'MongoDB', 
-          'MySQL', 'Redis', 'Tailwind'],
+  tools: ['Node', 'React', 'SQL Server', 'ASP.Net Core', 
+          'MongoDB', 'MySQL', 'Redis', 'Tailwind'],
   English: B2,
   Hobbies: {
               Music: "Play guitar, piano and sing",
