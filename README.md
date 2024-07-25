@@ -12,12 +12,12 @@
 
 ```javascript
 const Jeff = {
-  code: ['Javascript', 'C#', 'Typescript', 'Python'],
-  tools: ['Node', 'React', 'ASP.Net Core', 'Tailwind', 'GenAI'],
+  code: ['Javascript', 'Typescript', 'Python'],
+  tools: ['Node', 'React', 'Elasticsearch', 'SQL', 'Tailwind', 'GenAI'],
   English: B2,
   Hobbies: {
               Music: "Play guitar, piano and sing",
               Economics: "Book reading",
-              Others: "Video Games, photografy"
+              Others: "Video Games, photography"
             }
 }
