@@ -13,7 +13,7 @@
 ```javascript
 const Jeff = {
   code: ['Javascript', 'Typescript', 'Python'],
-  tools: ['Node', 'React', 'Elasticsearch', 'SQL', 'Tailwind', 'GenAI'],
+  tools: ['NextJS', 'React', 'Elasticsearch', 'GenAI'],
   English: B2,
   Hobbies: {
               Music: "Play guitar, piano and sing",
