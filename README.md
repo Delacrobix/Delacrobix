@@ -12,12 +12,7 @@
 
 ```javascript
 const Jeff = {
-  code: ['Javascript', 'Typescript', 'Python'],
-  tools: ['NextJS', 'React', 'Elasticsearch', 'GenAI'],
-  English: B2,
-  Hobbies: {
-              Music: "Play guitar, piano and sing",
-              Economics: "Book reading",
-              Others: "Video Games, photography"
-            }
+  code: ['Typescript', 'Python'],
+  tools: ['NextJS', 'Elasticsearch', 'GenAI'],
+  English: B2
 }
